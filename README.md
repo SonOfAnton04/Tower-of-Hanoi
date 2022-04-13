@@ -4,4 +4,8 @@
 ### can use to solve it manually or implemented a 
 ### recursion algorithm to solve it automatically.
 
+## Dependency
+- pygame
+- jpgs provided
+
 ## Just run main.py and have fun!
